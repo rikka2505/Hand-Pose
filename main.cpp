@@ -3,6 +3,8 @@
 #include<string>
 #include<string.h>
 
+//11/7/2022
+
 using namespace std;
 struct handJoint{
 //TODO: 1. Define a data structure struct handJoint to represent a joint 
